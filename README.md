@@ -12,7 +12,7 @@ O Projeto consiste em uma réplica parcial do site de vendas do iPhone15, basean
 
 ## Desenvolvimento do layout:
 
-Durante o processo, encontrei algumas dificuldades, como por exemplo alinhamento de textos e imagens(principalmente nas áreas que haviam muitos elementos).Usando flexbox e outras técnicas CSS,
+Durante o processo, encontrei algumas dificuldades, como por exemplo alinhamento de textos e imagens (principalmente nas áreas que haviam muitos elementos). Usando flexbox e outras técnicas CSS,
 resolvi os problemas abordados e consegui ser preciso no design do projeto.
 
 ## Responsividade:
